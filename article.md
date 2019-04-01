@@ -1,5 +1,5 @@
-title: "Západ Evropy se loučí s uhlím, na východ od železné opony se staví, často společně s Čínou. Kam patříme? Zmapovali jsme plány vlády i ČEZ"
-perex: "Němci letos v lednu rozhodli, že do roku 2038 přestanou pálit uhlí. Český ministr životního prostředí teď oznámil, že chystá uhelnou komisi i v Česku. Postavit se uhlí by přitom mohl už podle současných plánů."
+title: "Západ Evropy se s uhlím loučí, na východě se uhelné elektrárny staví. Zmapovali jsme plány vlády i ČEZ"
+perex: "Němci v lednu rozhodli, že do roku 2038 končí s uhlím. Český ministr životního prostředí Richard Brabec (ANO) teď oznámil, že chystá uhelnou komisi i zde. Postavit se uhlí by přitom mohl už podle současných plánů. Datoví novináři serveru iROZHLAS se ponořili do dokumentů českých energetiků."
 published: "2. dubna 2019"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/12507291353_58227597_190401-160936_jab.jpg?itok=EMYAtGKl
 coverimg_note: "Foto <a href='https://www.flickr.com/photos/greenpeacepl/12507291353/'>Bogusz Bilewski | Flickr</a> (CC BY-ND 2.0)"
@@ -17,7 +17,7 @@ options: []
 <li><strong><a href="#kapitola4">Křetínský, Tykač: „Věříme v roli uhlí na cestě k zelené budoucnosti“</a></strong></li>
 <li><strong><a href="#kapitola5">Externality: co firma vydělá, zaplatí stát na zdravotních nákladech</a></strong></li>
 <li><strong><a href="#kapitola6">Rozbité povolenky. „O čtyři stupně teplejší svět není pojistitelný“</a></strong></li>
-<li><strong><a href="#kapitola7">Premiér: „Je potřeba bojovat proti klimatické změně. Ale ne tak, abychom poškodili průmysl.“</a></strong></li>
+<li><strong><a href="#kapitola7">Premiér: „Je potřeba bojovat proti klimatické změně. Ale ne tak, abychom poškodili průmysl“</a></strong></li>
 </ul>
 
 <hr>
@@ -25,9 +25,9 @@ options: []
 <a name="kapitola0"></a>
 ## Před oponou, za oponou
 
-„Pokud jde o těžbu, přečetl jsem si, že stále ještě největším podnikem v Karlovarském kraji je Sokolovská uhelná a že průměrný plat v této společnosti je 34 tisíc korun, což je vysoko nad regionálním, ale dokonce i celostátním průměrem. Proč tedy zabíjet slepici, která snáší zlatá vejce,“ uvažoval prezident Miloš Zeman na návštěvě Karlových Varů v polovině letošního března.
+„Pokud jde o těžbu, přečetl jsem si, že stále ještě největším podnikem v Karlovarském kraji je Sokolovská uhelná a že průměrný plat v této společnosti je 34 tisíc korun, což je vysoko nad regionálním, ale dokonce i celostátním průměrem. Proč tedy zabíjet slepici, která snáší zlatá vejce,“ uvažoval prezident Miloš Zeman na návštěvě Karlových Varů v polovině března.
 
-„Ta hysterie, kterou vidím v Německu, špatně skončí. Už dnes mají nejdražší elektřinu. A až odstaví jaderné elektrárny, protože vítr občas nefouká a slunce nesvítí, tak ji budou dovážet. A odkud, když ne od nás, pokud neuděláme totéž,“ pokračoval prezident.
+„Ta hysterie, kterou vidím v Německu, špatně skončí. Už dnes mají nejdražší elektřinu. A až odstaví jaderné elektrárny, protože vítr občas nefouká a slunce nesvítí, tak ji budou dovážet. A odkud, když ne od nás, pokud neuděláme totéž,“ pokračoval.
 
 Za rozmach obnovitelných zdrojů v Evropě podle něj můžou především dotace.
 
@@ -37,7 +37,7 @@ Nesouhlasí také s názorem, že obnovitelné zdroje potřebují ke své ekonom
 
 „Odklon od uhelné energetiky se netýká zdaleka jen Německa, ale naprosté většiny Evropy,“ dodává Gavor. „Česko, Polsko a pár dalších zemí jsou v podpoře uhlí osamoceny. Většina evropských zemí dnes prosazuje čistější zdroje energie. Jejich postoj se bude také nepříznivě projevovat v přijímání nové legislativy, která bude stále víc v neprospěch uhlí. Osobně si myslím, že žijeme v době transformace energetiky, obnovitelné zdroje se stávají stále dostupnější a levnější.“
 
-Aktuální plány evropských zemí na poli uhelné energetiky přehledně ukazuje následující mapa. Jejím autorem je celoevropská síť Europe Beyond Coal. Na první pohled je zřetelná propast mezi západem a východem kontinentu: mezi patnácti „starými“ unijními zeměmi určily datum, kdy se rozloučí s uhlím, všechny s výjimkou Řecka a Španělska. Z postkomunistických zemí zatím žádná; nejdál jsou Slovensko a Maďarsko, i ty ale zavření všech uhelných elektráren zatím jen zvažují.
+Aktuální plány evropských zemí na poli uhelné energetiky přehledně ukazuje následující mapa. Jejím autorem je celoevropská síť [Europe Beyond Coal](https://beyond-coal.eu/data/). Na první pohled je zřetelná propast mezi západem a východem kontinentu: mezi patnácti „starými“ unijními zeměmi určily datum, kdy se rozloučí s uhlím, všechny s výjimkou Řecka a Španělska. Z postkomunistických zemí zatím žádná; nejdál jsou Slovensko a Maďarsko, i ty ale zavření všech uhelných elektráren zatím jen zvažují.
 
 <wide>
 <div id="container">
@@ -56,7 +56,9 @@ Zatím poslední zemí, která oznámila datum uzavření všech uhelných provo
 
 Evropský odklon od uhlí chce využít také Turecko: to plánuje v nejbližších letech postavit uhelné bloky o výkonu 39 GW, tedy přibližně tolik, kolik Německo plánuje uzavřít.
 
-GRAFIKA: Stavba nových uhelných elektráren (https://beyond-coal.eu/data, 5: New coal threat)
+<h3>Kde se v Evropě staví nové uhelné elektrárny?</h3>
+<div><img style="width: 100%" src="https://www.irozhlas.cz/sites/default/files/uploader/xxx_190401-174617_jab.png"></div>
+<p><i>Zdroj: Europe Beyond Coal</i></p>
 
 _Interaktivní vizualizaci (v angličtině), kde si ke každé připravované elektrárně můžete dohledat lokaci, výkon a vlastníka, najdete na stránkách Europe Beyond Coal pod záložkou [New coal threat](https://beyond-coal.eu/data)._
 
@@ -65,7 +67,7 @@ _Hnědouhelný blok Ledvice III o výkonu 660 MW, který vizualizace ukazuje jak
 <a name="kapitola1"></a>
 ## Energetická koncepce: jádro, plyn, špetka uhlí a biomasy
 
-Na rychlou tranzici evropské energetiky nyní reagoval také ministr životního prostředí Richard Brabec (ANO).
+Na rychlé změny v evropské energetice nyní reagoval také ministr životního prostředí Richard Brabec (ANO).
 
 „Po vzoru Německa bych rád přispěl k založení takzvané uhelné komise, kde velmi široká skupina odborníků, vědců, manažerů, politiků a ‚nevládek‘ hovoří o budoucnosti spalování fosilních paliv,“ [oznámil v pořadu Otázky Václava Moravce v polovině března](https://www.ceskatelevize.cz/ivysilani/1126672097-otazky-vaclava-moravce/219411030510317-otazky-vaclava-moravce-2-cast/obsah/682249-richard-brabec--ano--jan-frouz-michal-v-marek).
 
@@ -73,13 +75,13 @@ Na rychlou tranzici evropské energetiky nyní reagoval také ministr životníh
 
 Je otázka, zda pro komisi najde politickou podporu. Základní obrysy pro utlumení uhelných elektráren ovšem narýsovala už Sobotkova vláda v srpnu 2015 v dosud aktuální [Státní energetické koncepci](https://www.mpo.cz/dokument158059.html). Jde o strategický dokument s horizontem 25 let, tedy do roku 2040. Podle zákona 103/2015 Sb., je pro státní správu závazný, zároveň ovšem v mnoha ohledech vágní. Jakési mantinely pro uhlí nicméně stanoví: v roce 2040 by se mělo uhlí podílet na energetickém mixu 11 až 21 procenty. Dnes je společný podíl hnědého a černého uhlí na české elektřině 47 procent, takže jde o výrazný pokles. S úplným odstavením nicméně koncepce nepočítá.
 
-GRAF: struktura výroby elektřiny 2017 × 2040 (https://www.irozhlas.cz/zpravy-domov/atomova-energie-jaderna-elektrarna-dukovany-temelin_1804160705_jab)
+<div class="chart" id="koncepce" style="max-width: 100%"></div>
 
 Postupně odstavované uhelné elektrárny by mělo podle koncepce nahradit hlavně jádro. Výstavba nových jaderných bloků – ať už v Dukovanech, Temelíně, nebo jinde – ovšem naráží na řadu problémů, hlavně s financováním. „Definitivní rozhodnutí o investičním modelu dostavby by mělo padnout do konce letošního dubna, po zkušenostech z minulého roku je ovšem obtížné jakkoliv předvídat budoucí vývoj,“ [rozebírali jsme komplikace kolem Dukovan v únoru](https://www.irozhlas.cz/zpravy-domov/cez-dukovany-babis-dostavba-kritika_1902280615_jab). Lépe na tom nejsou ani jinde v Evropě; posledním zprovozněným jaderným reaktorem byl v roce 2002 Temelín. Finský reaktor Olkiluoto a francouzský Flamanville po mnohaletém prodlužování a prodražení výstavby stále [čekají na zprovoznění](https://www.irozhlas.cz/zpravy-domov/atomova-energie-jaderna-elektrarna-dukovany-temelin_1804160705_jab).
 
 Posílit mají i obnovitelné zdroje – ze současných 11 na 18 až 25 procent. Větší podíl čisté energie je ale podle koncepce nad možnosti České republiky. Slovy Miloše Zemana, málo u nás svítí slunce a fouká vítr.
 
-Priority české energetiky jsou jinde: koncepce na mnoha místech zdůrazňuje vyvážený mix zdrojů, díky kterému má být elektřina spolehlivá a relativně levná. Spoléhá se na kombinaci tradičních zdrojů – jádra, uhlí a zemního plynu. Mezi obnovitelnými zdroji tlačí na spalování biomasy, které lze načasovat a řídit; ke slunci, větru a vodě má nedůvěru. Plán české energetiky působí dojmem, že obnovitelné zdroje sice bere na vědomí, ale jinak se s nimi míjí. Pro dosažení svých cílů – hlavně levné a spolehlivé energie – je nepovažuje za vhodné. Naopak, podpora obnovitelných zdrojů podle ní „vede ke znevýhodňování českých energeticky intenzivních firem z pohledu konkurenceschopnosti a má dopady do sociální stability.“ V jiné pasáži jde ještě dál, podpora obnovitelných zdrojů podle ní podrývá konkurenceschopnost celé Evropské unie.
+Priority české energetiky jsou jinde: koncepce na mnoha místech zdůrazňuje vyvážený mix zdrojů, díky kterému má být elektřina spolehlivá a relativně levná. Spoléhá se na kombinaci tradičních zdrojů – jádra, uhlí a zemního plynu. Mezi obnovitelnými zdroji tlačí na spalování biomasy, které lze načasovat a řídit; ke slunci, větru a vodě má nedůvěru. Plán české energetiky působí dojmem, že obnovitelné zdroje sice bere na vědomí, ale jinak se s nimi míjí. Pro dosažení svých cílů – hlavně levné a spolehlivé energie – je nepovažuje za vhodné. Naopak, podpora obnovitelných zdrojů podle něj „vede ke znevýhodňování českých energeticky intenzivních firem z pohledu konkurenceschopnosti a má dopady do sociální stability.“ V jiné pasáži jde ještě dál, podpora obnovitelných zdrojů podle něj podrývá konkurenceschopnost celé Evropské unie.
 
 S tím nesouhlasí Jiří Koželouh z Hnutí Duha.
 
@@ -88,8 +90,6 @@ S tím nesouhlasí Jiří Koželouh z Hnutí Duha.
 [Studie](http://www.hnutiduha.cz/aktualne/prelomova-studie-po-odstaveni-ceskych-uhelnych-elektraren-svetla-nezhasnou), kterou pro ekology vypracovala německá firma Energynautics, odhaduje podíl obnovitelných zdrojů na výkonu české energetiky v roce 2030 na 54 procent.
 
 „Neznamená to, že bychom v budoucnu nepotřebovali žádnou elektřinu z uhlí, nějakou by ještě po roce 2030 vyráběly teplárny,“ pokračuje Kouželouh. „I bez uhelných elektráren bychom přitom elektřinu vyváželi, i když ne tak obrovská kvanta jako dnes. Dnes vyvážíme tolik elektřiny, kolik spotřebují všechny domácnosti.“
-
-ČASOVÁ OSA: konec uhlí podle různých koncepcí, události
 
 „Vláda nepotřebuje žádnou uhelnou komisi, aby mohla začít směřovat Česko od uhlí,“ upozorňuje. „Státní energetická koncepce určuje několik konkrétních úkolů, co má nebo už měla udělat. Jedním z nich je zavedení penalizace nízkoúčinné výroby elektřiny uhlí, protože většina uhlí se u nás spálí v elektrárnách s nízkou účinností, někde i méně než třicet procent. Tenhle úkol měl být splněn do konce roku 2015, dodnes penalizace zavedena není.“
 
@@ -106,7 +106,11 @@ Minimálně stejnou roli jako státní koncepce ovšem v energetice hrají zájm
 
 Současné klimatické i zdravotní dopady firmy jsou přitom na evropská měřítka vysoké. Podle dat Europe Beyond Coal je ČEZ pátým největším producentem oxidu uhličitého na kontinentu. Ještě hůř je na tom s dopady provozu svých elektráren na zdraví: v počtu způsobených předčasných úmrtí je mezi evropskými energetickými firmami čtvrtý.
 
-GRAFIKA: Největší producenti emisí (https://beyond-coal.eu/data, 4: Impact by company)
+<h3>Podíl evropských firem na emisích CO<sub>2</sub></h3>
+<div><img style="width: 100%; max-width: 400px" src="https://www.irozhlas.cz/sites/default/files/uploader/xxx_190401-180655_jab.png"></div>
+<p><i>Zdroj: Europe Beyond Coal</i></p>
+
+_Interaktivní vizualizaci (v angličtině), kde si můžete přepnout na podíl firmy na předčasných úmrtích nebo na instalovaném výkonu, najdete na stránkách Europe Beyond Coal pod záložkou [Impact by company](https://beyond-coal.eu/data)._
 
 „Přes 90 procent zdravotních dopadů způsobených firmou ČEZ pochází ze spalování hnědého uhlí v České republice, především v Ústeckém kraji,“ vyplývá podle hnutí Greenpeace z loňské studie [Poslední nádech: Jak energetické firmy otravují v Evropě vzduch](https://www.greenpeace.org/czech/publikace/1958/posledni-nadech-jak-energeticke-firmy-otravuji-v-evrope-vzduch/).
 
@@ -114,12 +118,16 @@ GRAFIKA: Největší producenti emisí (https://beyond-coal.eu/data, 4: Impact b
 
 „Aktivně přitom bojuje proti novým limitům na znečištění ovzduší,“ dodávají Greenpeace. „Právě prostřednictvím elektrárny Počerady se připojil k žalobě proti Evropské unii s cílem prosadit zrušení již schválených limitů.“
 
-Podle Greenpeace ČEZ nemá jasnou strategii, co chce se starými uhelnými elektrárnami dělat. Budoucnost uhelných provozů naznačuje pouze v [koncepci podnikatelské činnosti](https://www.cez.cz/edee/content/file-s/pro-investory/investor-relations/vh2014_sal68b4s3j3fv8nl/vh_2014_08a_aktualizace_koncepce_podnikatelske_cinnosti_cz.pdf) na svém webu. K uhelným provozům a obnovitelným zdrojům se vyjadřuje jen obecně (shrnutí v odrážkách).
+Podle Greenpeace ČEZ nemá jasnou strategii, co chce se starými uhelnými elektrárnami dělat. Budoucnost uhelných provozů naznačuje pouze v [koncepci podnikatelské činnosti](https://www.cez.cz/edee/content/file-s/pro-investory/investor-relations/vh2014_sal68b4s3j3fv8nl/vh_2014_08a_aktualizace_koncepce_podnikatelske_cinnosti_cz.pdf) na svém webu. K uhelným provozům a obnovitelným zdrojům se vyjadřuje jen obecně (<span onclick="pridejOdstavec()"><u>shrnutí v odrážkách</u></span>).
 
-* Realizovat po technické a právní stránce obnovu výrobní kapacity uhelných elektráren v souvislosti s dožíváním jejich technologických komponent formou výstavby nových uhelných bloků s vyšší účinností, popřípadě obnovou stávajících hnědouhelných bloků s ohledem na jejich profitabilitu a disponibilitu hnědého uhlí; k tomuto cíli optimalizovat provoz jednotlivých uhelných lomů Skupiny ČEZ.
-* Vytvářet předpoklady pro omezení dopadů, eventuálně získání dodatečných finančních efektů v oblasti obchodování s povolenkami na emise skleníkových plynů zvyšováním účinnosti výroby elektřiny v uhelných elektrárnách.
-* Zvyšovat podíl výroby elektřiny z obnovitelných zdrojů energie ve výrobních zařízeních Skupiny ČEZ (zejména spalováním biomasy, dále pak využitím vodní, větrné a sluneční energie).
-* Pokračovat ve zvyšování provozní výkonnosti a flexibility výrobních zdrojů, například v oblasti zvyšování výkonového rozsahu uhelných bloků umožňující lépe reagovat na cenové výkyvy na komoditní burze.
+<div id="cez">
+<ul style="font-size: 13px !important">
+<li>Realizovat po technické a právní stránce obnovu výrobní kapacity uhelných elektráren v souvislosti s dožíváním jejich technologických komponent formou výstavby nových uhelných bloků s vyšší účinností, popřípadě obnovou stávajících hnědouhelných bloků s ohledem na jejich profitabilitu a disponibilitu hnědého uhlí; k tomuto cíli optimalizovat provoz jednotlivých uhelných lomů Skupiny ČEZ.</li>
+<li>Vytvářet předpoklady pro omezení dopadů, eventuálně získání dodatečných finančních efektů v oblasti obchodování s povolenkami na emise skleníkových plynů zvyšováním účinnosti výroby elektřiny v uhelných elektrárnách.</li>
+<li>Zvyšovat podíl výroby elektřiny z obnovitelných zdrojů energie ve výrobních zařízeních Skupiny ČEZ (zejména spalováním biomasy, dále pak využitím vodní, větrné a sluneční energie).</li>
+<li>Pokračovat ve zvyšování provozní výkonnosti a flexibility výrobních zdrojů, například v oblasti zvyšování výkonového rozsahu uhelných bloků umožňující lépe reagovat na cenové výkyvy na komoditní burze.</li>
+</ul>
+</div>
 
 „ČEZ už v devadesátých letech odstavil velké množství zdrojů o výkonu 2000 MW, což odpovídá výkonu jaderné elektrárny Temelín,“ doplňuje mluvčí ČEZ Kříž. „Nyní nás čeká další fáze zavírání zastaralých uhelných elektráren, pro které už není uhlí do budoucna. První krok nastane už v příštím roce, kdy bude odstavena zhruba pětina energetických zdrojů, využívajících uhlí. Budou odstaveny Prunéřov I a Mělník II a III a bude to takhle pokračovat dál.“
 
@@ -150,7 +158,7 @@ Dosažitelné zásoby uhlí jsou ovšem podstatně menší. Jediná tuzemská fi
 
 Pro českou energetiku je klíčovou surovinou hnědé uhlí. Jeho těžbu omezují územní limity, které přijala už první porevoluční vláda v roce 1991 ([usnesení](https://kormoran.odok.cz/usneseni/usneseni_webtest.nsf/0/7DCED4838DD30F36C12571B6006B9ABD)). Topolánkův kabinet je v roce 2008 ještě mírně zpřísnil ([usnesení](https://apps.odok.cz/zvlady/usneseni/-/usn/2008/1176). Boj o limity patří k politickému folklóru, až do roku 2015 ale vlády jejich prolomení odmítaly.
 
-GRAF: dvacet největších producentů hnědého uhlí 1990, 2000, 2016
+<wide><div class="chart" id="hnedeuhli" style="max-width: 100%"></div></wide>
 
 Podle zprávy Výzkumného ústavu hnědého uhlí zbývalo v roce 2012 před limity 846 milionů tun hnědého uhlí. V posledních letech české firmy vytěžily každoročně kolem 40 milionů tun. Je to o třetinu méně než v roce 2000, přesto jsou Češi desátí největší producenti hnědého uhlí na světě.
 
@@ -161,8 +169,6 @@ Obě společnosti se dostaly do centra zájmu v roce 2015, kdy kabinet Bohuslava
 Definitivní rozhodnutí o prolomení limitů zatím nepadlo. V současnosti [probíhá projednávání dopadů těžby na životní prostředí (EIA)](https://oenergetice.cz/teplarenstvi/kritikum-rozsireni-tezby-na-dole-bilina-se-nelibi-zpracovani-zameru/). Konečné rozhodnutí by mělo padnout v nejbližších týdnech.
 
 Ještě výrazněji by prolomení pomohlo Severočeské energetice s dolem ČSA, to ale Sobotkův kabinet odmítl. Důl tak v současné době utlumuje těžbu a úplně skončit má v horizontu pěti let. Za limity se ukrývá 750 milionů tun uhlí, které by při současné intenzitě těžby umožnily provoz do roku 2120. Jejich vytěžení by ale také znamenalo zničení obcí Horní Jiřetín a Černice.
-
-GRAF: celosvětově největší producenti a konzumenti uhlí 2007 až 2017
 
 <a name="kapitola4"></a>
 ## Křetínský, Tykač: „Věříme v roli uhlí na cestě k zelené budoucnosti“
@@ -177,15 +183,25 @@ Křetínský – ale ani Tykač – se netají svou uhelnou strategií. Chápou,
 
 „Naše hlavní aktivity spočívají v konvenčním způsobu výroby elektřiny, protože věříme v její roli při přechodu k zelenější budoucnosti,“ píše v překladu na svém anglickém webu Tykačova Severočeská energie. „Je přirozené být zodpovědný k lidstvu a matce Zemi,“ vzkazuje také.
 
+Místní to vidí jinak. Německá zelená poslankyně Heide Schinowsky s redaktorem Českého rozhlasu navštívila hnědouhelný lom společnosti LEAG, která je součástí Křetínského holdingu.
+
+„Myslím, že jakmile jim důl přestane vynášet, prostě zmizí,“ obává se poslankyně. „Děje se to všude v Evropě, proč by nemělo tady?“
+
+LEAG by měl po ukončení těžby zaplatit za rekultivaci. Není ovšem jisté, [zda si firma dala bokem dost peněz](https://www.euro.cz/byznys/nemecke-greenpeace-utoci-na-eph-nasledky-po-tezbe-mohou-dopadnout-na-stat-1421343).
+
+„LEAG by měl rekultivaci zaplatit,“ pokračuje Schinowsky. „Problém je, že německá vláda si to nepojistila, takže to ještě bude velký boj. Nakonec je docela pravděpodobné, že rekultivaci místo LEAG zaplatí německá vláda.“
+
 Za zmínku stojí také některé zahraniční investice ČEZ. Mezi jeho investicemi jsou i uhelné elektrárny Skorzów a Skawina v katovickém regionu nedaleko česko-polské hranice. Pravidelná smogová situace na Ostravsku, kterou české vlády rády svalují na Polsko, má tedy zčásti český původ.
 
-U těžby černého uhlí je samozřejmě podstatná cena, za jakou je lze prodat – klesající ceny uhlí jsou jeden z důvodů, proč OKD postupně ukončuje těžbu. U hnědého uhlí, které tvoří většinu krmiva pro tepelné elektrárny, je situace jiná: jeho přeprava na větší vzdálenosti se nevyplatí, proto také neexistuje globální trh s hnědým uhlím. Využívá se v místě, kde se těží. Většina hnědouhelných dolů je propojena s tepelnými elektrárnami, bez této vazby těžba hnědého uhlí ztrácí ekonomickou logiku.
+U těžby černého uhlí je samozřejmě podstatná cena, za jakou je lze prodat – klesající ceny uhlí jsou jeden z důvodů, proč OKD postupně ukončuje těžbu. U hnědého uhlí, které tvoří většinu „krmiva“ pro tepelné elektrárny, je situace jiná: jeho přeprava na větší vzdálenosti se nevyplatí, proto také neexistuje globální trh s hnědým uhlím. Využívá se v místě, kde se těží. Většina hnědouhelných dolů je propojena s tepelnými elektrárnami, bez této vazby těžba hnědého uhlí ztrácí ekonomickou logiku.
 
 Co se však mění a určuje směr energetických investic, jsou ceny elektřiny. Ty byly v posledních letech mimořádně nízké – to je také jeden z důvodů, proč země odmítaly investice například do jaderných reaktorů. Nyní i v důsledku německého odstavení jaderných elektráren a postupného přechodu k obnovitelným zdrojům rostou.
 
 „V nejbližších letech poklesne disponibilní výkon v klasických zdrojích, hlavně se to týká Německa,“ shrnuje současný vývoj Jiří Gavor, ředitel Asociace nezávislých dodavatelů energií. „Začátek uhelného exitu v Německu bude probíhat současně s koncem jaderných elektráren, takže na německém a středoevropském trhu bude určitě nedostatek výkonu. Myslím, že to může vyhnat ceny energie o něco výše.“
 
-GRAF: ceny energie v evropských zemích (https://ec.europa.eu/energy/en/data-analysis/energy-prices-and-costs)
+<wide><div class="chart" id="cenyenergie" style="max-width: 100%"></div></wide>
+
+_* PPS neboli standard kupní síly odpovídá průměrné kupní síle jednoho Eura v Evropské unii_
 
 Pro Česko a jeho energetickou strategii je podstatné, že evropský trh s elektřinou je silně propojený. Nedávná [publikace výzkumníků z brněnské Masarykovy univerzity](https://www.muni.cz/vyzkum/publikace/1376861) analyzuje, jaký vliv má německý přechod k obnovitelným zdrojům – Energiewende – právě na český trh. Ukazuje, že gravitace osmkrát většího německého trhu de facto určuje české ceny energie. Představa prezidenta, že Německo za pár let budeme zachraňovat levnou elektřinou z uhlí, se v kontextu studie zdá málo pravděpodobná.
 
@@ -215,7 +231,9 @@ Systém ovšem příliš dobře neplní svůj hlavní účel omezit emise sklen�
 
 V posledních letech unie systém obchodování s povolenkami probrala z kómatu; v reakci na extrémně nízké ceny v roce 2014 například odebrala z trhu 900 milionů nadbytečných povolenek. Výsledkem je vyšší cena, v posledním březnovém týdnu se například pohybovala na 21,5 eura. Přesto řada západoevropských zemí zavedla vlastní uhlíkovou daň, nezávislou na systému povolenek: v současné době jsou to Spojené království, Irsko, Dánsko, Švédsko, Finsko, Francie a Nizozemsko.
 
-GRAF: cena emisních povolenek (https://sandbag.org.uk/carbon-price-viewer/)
+<h3>Ceny a objem emisních povolenek na trhu</h3>
+<div><img style="width: 100%" src="https://www.irozhlas.cz/sites/default/files/uploader/xxx_190401-215810_jab.png"></div>
+<p><i>Zdroj: EEX</i></p>
 
 [Právníci z české společnosti Frank Bold nicméně upozorňují](http://en.frankbold.org/our-work/campaign/free-ets-allowances-coal-power-plants), že u nás jsou povolenky stále převážně zdarma.
 
@@ -232,7 +250,7 @@ V jejich případě jsou důvody odstoupení od uhlí obvykle pragmatické.
 „Svět s teplotou o čtyři stupně Celsia vyšší už není pojistitelný,“ shrnul jejich přístup Kersten Becker, šéf monitoringu investic u společnosti Axa Německo.
 
 <a name="kapitola7"></a>
-## Premiér: „Je potřeba bojovat proti klimatické změně. Ale ne tak, abychom poškodili průmysl.“
+## Premiér: „Je potřeba bojovat proti klimatické změně. Ale ne tak, abychom poškodili průmysl“
 
 „Vláda teď musí rozhýbat obnovitelné zdroje,“ shrnuje svůj postoj Jiří Koželouh z Hnutí Duha. „Komise musí následovat německý příklad, kdy je ochrana klimatu důležitější než cokoliv jiného. Musí po vzoru německé uhelné komise řešit, kdy se Češi vzdají uhlí, ne jestli se ho vzdají.“
 
@@ -244,7 +262,7 @@ V jejich případě jsou důvody odstoupení od uhlí obvykle pragmatické.
 
 „Česko určitě neodstaví všechny uhelné zdroje před rokem 2030,“ dodává. „Myslím, že poslední v provozu bude právě uhelný blok v Ledvicích. Ten se, pokud nebude vypnut v důsledku politického rozhodnutí, ekonomicky dožije horizontu někde za rokem 2040. Česká energetika bude ještě dlouho využívat jak uhelné, tak jaderné zdroje.“
 
-A čeští politici, co se týče rozhodování o obnovitelných zdrojích, mají jasno. Ukázalo to i nedávné vystoupení premiéra Andreje Babiše na posledním evropském summitu, kde Evropská komise navrhla, že by měla unie být do roku 2050 klimaticky neutrální – tedy vyrábět jen tolik emisí skleníkových plynů, kolik dokáže vyčistit. Česko spolu s Německem, Polskem a Maďarskem [návrh odmítlo](https://www.euractiv.com/section/climate-strategy-2050/news/summit-leak-reveals-eu-rift-on-climate-change/).
+Český premiér, co se týče rozhodování o obnovitelných zdrojích, má jasno. Ukázalo to i jeho nedávné vystoupení na posledním evropském summitu, kde Evropská komise navrhla, že by měla unie být do roku 2050 klimaticky neutrální – tedy vyrábět jen tolik emisí skleníkových plynů, kolik dokáží z atmosféry odstranit například stromy. Česko spolu s Německem, Polskem a Maďarskem [návrh odmítlo](https://www.euractiv.com/section/climate-strategy-2050/news/summit-leak-reveals-eu-rift-on-climate-change/).
 
 „Dá se říct, že nad klimatickou strategií jsme se zasekli, protože tam byly tendence ze strany některých členských zemí mít ambice nad úroveň Pařížské dohody,“ [řekl na mikrofon Andrej Babiš](https://tvnewsroom.consilium.europa.eu/videos?keywords=Babis). „A já říkám za Českou republiku, že nemůžeme neustále navyšovat naše ambice a cíle, pokud se nezapojí největší světoví producenti emisí.“
 
