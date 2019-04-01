@@ -3,8 +3,8 @@ perex: "Němci letos v lednu rozhodli, že do roku 2038 přestanou pálit uhlí.
 published: "2. dubna 2019"
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
-styles: []
-libraries: [jquery, highcharts] #, d3, d3v5, d3csv, , datatables
+styles: ["//github.com/downloads/lafeber/world-flags-sprite/flags32.css"]
+libraries: [jquery, highcharts, "http://code.highcharts.com/maps/modules/map.js", "https://code.highcharts.com/mapdata/custom/europe.js", "./js/data.js"] #, d3, d3v5, d3csv, , datatables
 options: [] #wide, noheader (, nopic)
 ---
 „Pokud jde o těžbu, přečetl jsem si, že stále ještě největším podnikem v Karlovarském kraji je Sokolovská uhelná a že průměrný plat v této společnosti je 34 tisíc korun, což je vysoko nad regionálním, ale dokonce i celostátním průměrem. Proč tedy zabíjet slepici, která snáší zlatá vejce,“ uvažoval prezident Miloš Zeman na návštěvě Karlových Varů v polovině letošního března.
@@ -21,7 +21,12 @@ Nesouhlasí také s názorem, že obnovitelné zdroje potřebují ke své ekonom
 
 Aktuální plány evropských zemí na poli uhelné energetiky přehledně ukazuje následující mapa. Jejím autorem je celoevropská síť Europe Beyond Coal. Na první pohled je zřetelná propast mezi západem a východem kontinentu: Mezi patnácti „starými“ unijními zeměmi určily datum, kdy se rozloučí s uhlím, všechny s výjimkou Řecka a Španělska. Z postkomunistických zemí zatím žádná; nejdál jsou Slovensko a Maďarsko, i ty ale zavření všech uhelných elektráren zatím jen zvažují.
 
-MAPA: coal phaseout plans od EBC (https://beyond-coal.eu/data)
+<wide>
+<div id="container">
+<div id="mapa"></div>
+<div id="tooltip"></div>
+</div>
+</wide>
 
 Změny v evropské energetice jsou překotné; přestože Britové oznámili záměr skoncovat s uhlím ještě před Pařížskou dohodou v roce 2015, termín odstavení uhelných elektráren většina zemí oznámila až v posledním roce. Změny urychlila poslední [zpráva Mezinárodního panelu pro klimatickou změnu loni v listopadu](https://www.ipcc.ch/sr15/), podle které se atmosféra otepluje rychleji, než se předpokládalo.
 
