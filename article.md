@@ -46,9 +46,13 @@ _Hnědouhelný blok Ledvice III o výkonu 660 MW, který vizualizace ukazuje jak
 
 ## XXX (koncepce)
 
-Na rychlou tranzici evropské energetiky nyní reagoval také ministr životního prostředí Richard Brabec (ANO). V pořadu Otázky Václava Moravce slíbil, že po vzoru Německa jmenuje uhelnou komisi, která stanoví podmínky a datum ukončení české uhelné energetiky.
+Na rychlou tranzici evropské energetiky nyní reagoval také ministr životního prostředí Richard Brabec (ANO).
 
-Základní obrysy pro utlumení uhelných elektráren ovšem narýsovala už Sobotkova vláda v srpnu 2015 v dosud aktuální [Státní energetické koncepci](https://www.mpo.cz/dokument158059.html). Jde o strategický dokument s horizontem 25 let, tedy do roku 2040. Podle zákona 103/2015 Sb. je pro státní správu závazný, zároveň ovšem v mnoha ohledech vágní. Jakési mantinely pro uhlí nicméně stanoví: v roce 2040 by se mělo uhlí podílet na energetickém mixu 11 až 21 procenty. Dnes je společný podíl hnědého a černého uhlí na české elektřině 47 procent, takže jde o výrazný pokles. S úplným odstavením nicméně koncepce nepočítá.
+„Po vzoru Německa bych rád přispěl k založení takzvané uhelné komise, kde velmi široká skupina odborníků, vědců, manažerů, politiků a nevládek hovoří o budoucnosti spalování fosilních paliv,“ [oznámil v pořadu Otázky Václava Moravce v polovině března](https://www.ceskatelevize.cz/ivysilani/1126672097-otazky-vaclava-moravce/219411030510317-otazky-vaclava-moravce-2-cast/obsah/682249-richard-brabec--ano--jan-frouz-michal-v-marek).
+
+„Mně se ten německý model líbí,“ doplnil ministr. „Abychom si řekli, jaké jsou reálné možnosti České republiky možná ještě v rychlejším přechodu z fosilních paliv na obnovitelné zdroje a na jádro. Protože jen na obnovitelných zdrojích zůstat nemůžeme, takovou pozici nemáme.“
+
+Je otázka, zda pro komisi najde politickou podporu. Základní obrysy pro utlumení uhelných elektráren ovšem narýsovala už Sobotkova vláda v srpnu 2015 v dosud aktuální [Státní energetické koncepci](https://www.mpo.cz/dokument158059.html). Jde o strategický dokument s horizontem 25 let, tedy do roku 2040. Podle zákona 103/2015 Sb. je pro státní správu závazný, zároveň ovšem v mnoha ohledech vágní. Jakési mantinely pro uhlí nicméně stanoví: v roce 2040 by se mělo uhlí podílet na energetickém mixu 11 až 21 procenty. Dnes je společný podíl hnědého a černého uhlí na české elektřině 47 procent, takže jde o výrazný pokles. S úplným odstavením nicméně koncepce nepočítá.
 
 GRAF: struktura výroby elektřiny 2017 × 2040 (https://www.irozhlas.cz/zpravy-domov/atomova-energie-jaderna-elektrarna-dukovany-temelin_1804160705_jab)
 
