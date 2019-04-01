@@ -4,7 +4,7 @@ published: "2. dubna 2019"
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='#'>ČTK</a>"
 styles: ["//github.com/downloads/lafeber/world-flags-sprite/flags32.css"]
-libraries: [jquery, highcharts, "http://code.highcharts.com/maps/modules/map.js", "https://code.highcharts.com/mapdata/custom/europe.js", "./js/data.js"] #, d3, d3v5, d3csv, , datatables
+libraries: [jquery, highcharts, "https://code.highcharts.com/maps/7.1.0/modules/map.js", "https://code.highcharts.com/mapdata/custom/europe.js", "./js/data.js"] #, d3, d3v5, d3csv, , datatables
 options: [] #wide, noheader (, nopic)
 ---
 „Pokud jde o těžbu, přečetl jsem si, že stále ještě největším podnikem v Karlovarském kraji je Sokolovská uhelná a že průměrný plat v této společnosti je 34 tisíc korun, což je vysoko nad regionálním, ale dokonce i celostátním průměrem. Proč tedy zabíjet slepici, která snáší zlatá vejce,“ uvažoval prezident Miloš Zeman na návštěvě Karlových Varů v polovině letošního března.
