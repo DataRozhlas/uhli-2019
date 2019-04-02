@@ -4,7 +4,7 @@ published: "2. dubna 2019"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/12507291353_58227597_190401-160936_jab.jpg?itok=EMYAtGKl
 coverimg_note: "Foto <a href='https://www.flickr.com/photos/greenpeacepl/12507291353/'>Bogusz Bilewski | Flickr</a> (CC BY-ND 2.0)"
 styles: ["//github.com/downloads/lafeber/world-flags-sprite/flags32.css"]
-libraries: [jquery, highcharts, "https://code.highcharts.com/maps/7.1.0/modules/map.js", "https://code.highcharts.com/mapdata/custom/europe.js", "./js/data.js"]
+libraries: [jquery, highcharts, "https://code.highcharts.com/maps/7.1.0/modules/map.js", "https://code.highcharts.com/mapdata/custom/europe.js"]
 options: []
 ---
 
